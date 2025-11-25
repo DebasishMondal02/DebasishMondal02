@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **debasishmondal2002@gmail.com**
 
-- ⚡ Fun fact **By mistake I carried my board answer sheet with me back to home**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
