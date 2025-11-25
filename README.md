@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debasish Mondal</h1>
-<h3 align="center">A passionate frontend developer from India. Currently a BCA 3rd year student at The Heritage Academy.</h3>
+<h3 align="center">A passionate Software engineer having 3.2 years of experience in Sap Hybris, Java and Automation testing in Cucumber and selenium.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasishmondal02&label=Profile%20views&color=0e75b6&style=flat" alt="debasishmondal02" /> </p>
 
-- 🌱 I’m currently learning **MERN(Mongo DB, Express, React, Node JS)**
+- 🌱 I’m currently learning JAVA backend with Spring
 
-- 📫 How to reach me **debasish.mondal.bca22@geritageit.edu.in**
+- 📫 How to reach me **debasishmondal2002@gmail.com**
 
 - ⚡ Fun fact **By mistake I carried my board answer sheet with me back to home**
 
